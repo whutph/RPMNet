@@ -1,0 +1,16 @@
+diff --git a/requirements.txt b/requirements.txt
+index 873d54a..3b0755e 100644
+--- a/requirements.txt
++++ b/requirements.txt
+@@ -11,4 +11,8 @@ tensorboardX
+ torch
+ torchvision
+ tqdm
+-xlrd
+\ No newline at end of file
++xlrd
++pyyaml
++scikit-learn
++addict
++plyfile
+\ No newline at end of file

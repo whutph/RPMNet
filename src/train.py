@@ -39,6 +39,8 @@ else:
 
 
 def main():
+    # print(_args)
+    # dateset = ModelNetHdf(dataset_path=_args.dataset_path)
     train_set, val_set = get_train_datasets(_args)
     run(train_set, val_set)
 

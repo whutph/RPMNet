@@ -1,0 +1,3 @@
+addict :    conda install conda-forge::addict
+open3d :  conda install open3d-admin::open3d
+plyfile :   conda install conda-forge::plyfile
